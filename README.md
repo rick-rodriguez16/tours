@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+#Live website can be found at
+##https://rick-rodriguez16.github.io/tours/
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
